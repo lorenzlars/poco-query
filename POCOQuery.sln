@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCOQuery", "POCOQuery\POCOQuery.csproj", "{DE3B25B4-C4A5-44C2-84EF-4CB7AB452956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE3B25B4-C4A5-44C2-84EF-4CB7AB452956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3B25B4-C4A5-44C2-84EF-4CB7AB452956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3B25B4-C4A5-44C2-84EF-4CB7AB452956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3B25B4-C4A5-44C2-84EF-4CB7AB452956}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28C875EF-A7F3-41AD-B790-4ED0DD943C57}
+	EndGlobalSection
+EndGlobal
