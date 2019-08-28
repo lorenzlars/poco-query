@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/lorenzlars/poco-query.svg?branch=master)](https://travis-ci.org/lorenzlars/poco-query)
+![](https://img.shields.io/static/v1?label=.NET+Framework&message=4.5.2&color=informational)
+
 # POCOQuery
 
 **POCOQuery is a extention library to the `System.Linq.IQueryable` interface.**
