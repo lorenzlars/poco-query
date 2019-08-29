@@ -1,4 +1,8 @@
-[![Build Status](https://travis-ci.org/lorenzlars/poco-query.svg?branch=master)](https://travis-ci.org/lorenzlars/poco-query)
+[![Travis](https://img.shields.io/travis/lorenzlars/poco-query.svg)](https://travis-ci.org/lorenzlars/poco-query)
+[![Github Issue](https://img.shields.io/github/issues/lorenzlars/poco-query.svg?maxAge=3600)](https://github.com/lorenzlars/poco-query/issues) 
+[![GitHub Fork](https://img.shields.io/github/forks/lorenzlars/poco-query.svg?maxAge=3600)](https://github.com/lorenzlars/poco-query/network) 
+[![GitHub Star](https://img.shields.io/github/stars/lorenzlars/poco-query.svg?maxAge=3600)](https://github.com/lorenzlars/poco-query/stargazers)
+
 ![](https://img.shields.io/static/v1?label=.NET+Framework&message=4.5.2&color=informational)
 
 # POCOQuery
